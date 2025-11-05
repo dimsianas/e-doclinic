@@ -1,2 +1,2 @@
 # e-doclinic
-Web Applications for booking Doctor Appointments.
+Web Application for booking Doctor Appointments.
